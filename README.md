@@ -1,5 +1,9 @@
-# hello-world
+Parallax Scrolling Methods
 
-Hello, I begna coding circa 2006 but have been away from it for a while. In the mean time the internet really grew up and I'm teaching myself GitHub because that seems to be a good industry standard for hosting code. Also I've been doing a lot of hobby science and I want a place to work through some of my simulations.
+These are a couple of scrolling methods that I tested out for the creation of my portfolio site, http://technecreative.com. 
+
+The first one relies heavily on CSS3 and the 3dtransform style but offered inconsistent cross platform performance (IE issues). This one is titled ParallaxTester_zTransformBased.html
+
+The second method is the one I ultimately implimented on my portfolio site. This one has much more javascript and listens to the scroll and mouse wheel to create the parallax effect. This one is titled ParallaxTester_ScrollBased.html
 
 ~Reversenorm
